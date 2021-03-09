@@ -174,3 +174,5 @@ $(document).ready(function () {
    $('#currentDay').append(todaysDate);
 
 })
+
+// updating
